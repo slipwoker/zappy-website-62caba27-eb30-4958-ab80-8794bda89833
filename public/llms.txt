@@ -1,47 +1,60 @@
-# Business — Generative Engine Optimization Map
+# Jburger by J17 — Generative Engine Optimization Map
+
+> A vegan food truck that specializes in high-quality street food and premium chef-level burgers. The brand combines the casual, on-the-go energy of street food culture with an elevated culinary experience, positioning itself as a top-tier option in the plant-based food scene. The concept bridges accessibility and gourmet quality, offering vegan burgers crafted at a chef's standard.
 
 ---
 
 ## Pages
 
 ### בית
-https://example.com
+https://jburger-by-j17.zappy5.app
 פודטראק טבעוני שמשנה את כללי המשחק! המבורגרים טבעוניים ברמת שף, מוכנים ברחוב עבורכם. אוכל רחוב טבעוני איכותי שלא תשכחו. הזמינו עכשיו!
 
 ### חוויה קולינרית
-https://example.com/food-experience
+https://jburger-by-j17.zappy5.app/food-experience
 כל ביס הוא עולם ומלואו — המבורגר טבעוני שף בטעמים שלא האמנתם שאפשר בצמחים. חוויה קולינרית ייחודית של אוכל רחוב טבעוני איכותי. גלו את התפריט!
 
 ### אודות
-https://example.com/about
+https://jburger-by-j17.zappy5.app/about
 מטבח שף פגש את הרחוב וייצר משהו שלא היה קיים — פודטראק טבעוני עם ערכים, תשוקה ואהבה לאוכל אמיתי. הכירו את הצוות שמאחורי ההמבורגר הצמחוני הטבעוני הטוב בישראל.
 
 ### צור קשר
-https://example.com/contact
+https://jburger-by-j17.zappy5.app/contact
 הזמינו את הפודטראק הטבעוני הכי שווה לאירוע, לפסטיבל או לפינה הקרובה אליכם. צרו קשר עכשיו ותביאו המבורגר טבעוני שף לכל מקום שתרצו. אנחנו מגיעים אליכם!
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://jburger-by-j17.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://jburger-by-j17.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://jburger-by-j17.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About Jburger by J17
+A vegan food truck that specializes in high-quality street food and premium chef-level burgers. The brand combines the casual, on-the-go energy of street food culture with an elevated culinary experience, positioning itself as a top-tier option in the plant-based food scene. The concept bridges accessibility and gourmet quality, offering vegan burgers crafted at a chef's standard.
+
+## Services/Products
+- אוכל רחוב טבעוני איכותי
+- המבורגרים שף ברמה גבוהה
+
+## Target Audience
+
+## Industry
+מזון ומסעדנות
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://example.com/sitemap.xml
-- **Robots.txt**: https://example.com/robots.txt
+- **Sitemap**: https://jburger-by-j17.zappy5.app/sitemap.xml
+- **Robots.txt**: https://jburger-by-j17.zappy5.app/robots.txt
